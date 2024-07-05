@@ -19,7 +19,7 @@
 
 ## <span style="color:#ff53fd">🔍Sobre Mim</span>
 
-Sou Sonia, pós-graduanda em Ciência de Dados pela FIA e formada em Engenharia de Produção pela Pontifícia Universidade Católica de São Paulo.
+Sou pós-graduanda em Ciência de Dados pela FIA e formada em Engenharia de Produção pela Pontifícia Universidade Católica de São Paulo.
 Com 10 anos de experiência diversificada, nos últimos 3 anos, mergulhei profundamente na ciência de dados, aplicando técnicas avançadas para transformar dados em insights estratégicos.
 
 💼 <b>Experiência Profissional</b><p>
