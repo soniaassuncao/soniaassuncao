@@ -33,12 +33,12 @@ Transformar dados em decisões estratégicas e continuar inovando no campo da ci
 
 
 
-## ☕Sobre o projeto
-Minha transição para a ciência de dados foi desafiadora. Nunca havia trabalhado com dados até ser selecionada para um programa de trainee. Durante o programa, participei de treinamentos intensivos, tanto internos quanto externos, para acelerar meu aprendizado e evolução como cientista de dados.
+## ☕Sobre o CCDS
+Minha transição para a ciência de dados foi uma jornada de aprendizado intensa e transformadora. Embora eu não tivesse experiência anterior com dados, a oportunidade de participar de um programa de trainee em uma instituição financeira foi um ponto de virada significativo. Durante o programa, imerci-me em treinamentos e workshops, tanto internos quanto externos, que aceleraram meu desenvolvimento como cientista de dados.
 
-Devido à falta de clareza sobre o caminho a seguir, investi muito dinheiro e tempo em cursos e livros que acreditava que me agregariam valor. Apesar de úteis, se tivesse a clareza e o direcionamento que possuo hoje, minha jornada teria sido muito mais rápida e eficiente.
+Investi tempo e recursos em cursos e livros para adquirir conhecimento e clareza, e essa dedicação me proporcionou uma base sólida. Agora, com a experiência e o direcionamento adquiridos, estou empolgada em compartilhar essa jornada com outros.
 
-E é exatamente por isso que nasceu o CCDS. A ideia é ajudar quem está começando ou fazendo uma transição de carreira a focar no que realmente gera valor e mentorar essas pessoas.
+É por isso que fundei o CCDS. O objetivo é guiar e mentorar aqueles que estão começando ou fazendo a transição para a ciência de dados, ajudando-os a focar nas estratégias e práticas que realmente geram valor e aceleram seu crescimento profissional.
 
 <details open> 
   <!-- Emojis podem ser copiados e colados diretamente desse link:https://emojipedia.org/search/?q=Star -->
