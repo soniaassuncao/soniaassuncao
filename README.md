@@ -4,30 +4,36 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Compartilho+projetos+sobre;Estatística;Modelos+preditivos;Inteligência+Artificial;&font=Marmelad&center=true&width=440&height=45&color=ff53fd&vCenter=true&pause=500&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Compartilho+projetos+sobre;Estatística;Modelos+preditivos;Inteligência+Artificial;&font=Marmelad&center=true&width=440&height=45&color=ff53fd&vCenter=true&pause=100&size=25" />
   </a>
 </p>
 
 <p align="center">
   Que alegria em ter você por aqui! Fique à vontade para descobrir e contribuir junto conosco.<br>
-  <strong>Compartilho projetos sobre:</strong>
 </p>
 
 <p align="center">
-  <a href="#sobre-a-criadora" style="color:#ff53fd;">Sobre o criador</a> | 
+  <a href="#sobre-mim" style="color:#ff53fd;">Sobre mim</a> | 
   <a href="#sobre-o-projeto" style="color:#ff53fd;">Sobre o CCDS</a>
 </p>
 
-## Sobre a criadora
-Sou pós-graduanda em Ciência de Dados pela FIA e com formação em Engenharia de Produção pela Pontifícia Universidade Católica de São Paulo.
+## <span style="color:#ff53fd">🔍Sobre Mim</span>
 
-Nos últimos 8 anos, acumulei uma experiência rica em diversos setores, focada principalmente em projetos de tecnologia. Nos últimos três anos, dediquei-me intensamente à ciência de dados, explorando suas vastas aplicações para resolver problemas complexos e gerar insights valiosos.
+Sou Sonia, pós-graduanda em Ciência de Dados pela FIA e formada em Engenharia de Produção pela Pontifícia Universidade Católica de São Paulo.
+Com 10 anos de experiência diversificada, nos últimos 3 anos, mergulhei profundamente na ciência de dados, aplicando técnicas avançadas para transformar dados em insights estratégicos.
 
-Minha trajetória inclui passagens por empresas renomadas como a Nestlé, onde fui reconhecida como 'Colaboradora Destaque' em 2018 e 2019. No Itaú, contribuí para o desenvolvimento de jogos que visavam aumentar o engajamento das equipes internas. Atualmente, atuo como Cientista de Dados Sênior na Bradesco Seguros, liderando a construção de modelos preditivos com métodos tradicionais e técnicas avançadas de machine learning.
+💼 <b>Experiência Profissional</b><p>
 
-Sou apaixonada por transformar dados em decisões estratégicas e estou sempre em busca de novas oportunidades para aplicar meus conhecimentos e habilidades. Meu objetivo é continuar inovando e contribuindo para o avanço da ciência de dados no mercado financeiro e além.
+* Nestlé: Reconhecida como 'Colaboradora Destaque' em 2018 e 2019.<br>
+* Itaú: Desenvolvi jogos para engajamento de equipes.<br>
+* Bradesco Seguros: Atuo como Cientista de Dados Sênior, construindo modelos preditivos e aplicando machine learning.<br>
 
-## Sobre o projeto
+🎯 <b> Objetivo </b><p>
+Transformar dados em decisões estratégicas e continuar inovando no campo da ciência de dados, especialmente no mercado financeiro.
+
+
+
+## ☕Sobre o projeto
 Minha transição para a ciência de dados foi desafiadora. Nunca havia trabalhado com dados até ser selecionada para um programa de trainee. Durante o programa, participei de treinamentos intensivos, tanto internos quanto externos, para acelerar meu aprendizado e evolução como cientista de dados.
 
 Devido à falta de clareza sobre o caminho a seguir, investi muito dinheiro e tempo em cursos e livros que acreditava que me agregariam valor. Apesar de úteis, se tivesse a clareza e o direcionamento que possuo hoje, minha jornada teria sido muito mais rápida e eficiente.
@@ -55,5 +61,9 @@ E é exatamente por isso que nasceu o CCDS. A ideia é ajudar quem está começa
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/sonia-assuncao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cafecomdatascience/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ccds.cafecomdatascience@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
