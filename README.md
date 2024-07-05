@@ -43,6 +43,7 @@ Investi tempo e recursos em cursos e livros para adquirir conhecimento e clareza
 <details open> 
   <!-- Emojis podem ser copiados e colados diretamente desse link:https://emojipedia.org/search/?q=Star -->
   <summary><h2>📟 Github Stats</h2></summary>
+
   <br>
   <div align="center">
     <a href="https://github.com/soniaassuncao">
@@ -58,7 +59,7 @@ Investi tempo e recursos em cursos e livros para adquirir conhecimento e clareza
   </div>
 </details>
 
-##
+## 🎙️Nossos Canais
 
 <div> 
   <a href="https://youtube.com/@ccds-cafecomdatascience?si=ose6eQIB0hJ8tsVj" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
