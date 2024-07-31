@@ -1,5 +1,6 @@
 <!-- Header feito no canva -->
-![Header Git HUB](https://github.com/soniaassuncao/soniaassuncao/blob/42be18259efddc9130b45f2226985a1f9a5beb53/Header%20Git%20HUB.png)
+![Header Git HUB (1)](https://github.com/user-attachments/assets/922a9b99-9da1-488d-a32a-012afbc09de4)
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
