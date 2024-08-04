@@ -60,6 +60,10 @@ Investi tempo e recursos em cursos e livros para adquirir conhecimento e clareza
   </div>
 </details>
 
+# 🏆 Trophies Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=soniaassuncao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🎙️Nossos Canais
 
 <div> 
