@@ -40,6 +40,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8be9fd?style=for-the-badge&logo=mysql&logoColor=282a36)
 ![Databricks](https://img.shields.io/badge/Databricks-ff79c6?style=for-the-badge&logo=databricks&logoColor=282a36)
 ![Git](https://img.shields.io/badge/Git-ff5555?style=for-the-badge&logo=git&logoColor=282a36)
+![SAS](https://img.shields.io/badge/SAS-004BFF?style=for-the-badge&logo=sas&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 
 ## 🔍 Sobre Mim
 
